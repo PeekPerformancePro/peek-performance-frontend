@@ -4,22 +4,16 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+      <h1>Hello Peek Performance Pro!</h1>
+        <p>Welcome to your 24/7 Shelftalker platform.</p>
+        </h1>Increase sales with our "Silent Salesperson" solution.</>
+        </div>
+        
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
 }
 
 export default App;
